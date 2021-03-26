@@ -60,3 +60,4 @@ group ""
 
 include "opfor"
 include "opfor-editor"
+include "humangl"
